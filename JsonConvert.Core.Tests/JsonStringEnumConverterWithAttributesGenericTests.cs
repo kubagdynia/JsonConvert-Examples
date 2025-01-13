@@ -1,5 +1,6 @@
 using System.Text.Json;
 using JsonConvert.Core.Converters;
+using JsonConvert.Core.Tests.Helpers;
 
 namespace JsonConvert.Core.Tests;
 

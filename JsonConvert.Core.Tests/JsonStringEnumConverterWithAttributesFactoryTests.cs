@@ -1,6 +1,7 @@
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using JsonConvert.Core.Converters;
+using JsonConvert.Core.Tests.Helpers;
 
 namespace JsonConvert.Core.Tests;
 
